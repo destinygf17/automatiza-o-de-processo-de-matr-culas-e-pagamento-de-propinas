@@ -1,0 +1,20 @@
+{
+  "name": "automatiza-o-de-processo-de-matr-culas-e-pagamento-de-propinas",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/destinygf17/automatiza-o-de-processo-de-matr-culas-e-pagamento-de-propinas#readme",
+  "bugs": {
+    "url": "https://github.com/destinygf17/automatiza-o-de-processo-de-matr-culas-e-pagamento-de-propinas/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/destinygf17/automatiza-o-de-processo-de-matr-culas-e-pagamento-de-propinas.git"
+  },
+  "license": "ISC",
+  "author": "destinygf17 && Aline549-dev",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
