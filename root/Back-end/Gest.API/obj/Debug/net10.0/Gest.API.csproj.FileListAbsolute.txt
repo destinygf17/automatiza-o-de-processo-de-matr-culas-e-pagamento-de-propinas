@@ -127,3 +127,8 @@
 /workspaces/automatiza-o-de-processo-de-matr-culas-e-pagamento-de-propinas/root/Back-end/Gest.API/obj/Debug/net10.0/Gest.API.pdb
 /workspaces/automatiza-o-de-processo-de-matr-culas-e-pagamento-de-propinas/root/Back-end/Gest.API/obj/Debug/net10.0/Gest.API.genruntimeconfig.cache
 /workspaces/automatiza-o-de-processo-de-matr-culas-e-pagamento-de-propinas/root/Back-end/Gest.API/obj/Debug/net10.0/ref/Gest.API.dll
+/workspaces/automatiza-o-de-processo-de-matr-culas-e-pagamento-de-propinas/root/Back-end/Gest.API/bin/Debug/net10.0/DotNetEnv.dll
+/workspaces/automatiza-o-de-processo-de-matr-culas-e-pagamento-de-propinas/root/Back-end/Gest.API/bin/Debug/net10.0/Sprache.dll
+/workspaces/automatiza-o-de-processo-de-matr-culas-e-pagamento-de-propinas/root/Back-end/Gest.API/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/automatiza-o-de-processo-de-matr-culas-e-pagamento-de-propinas/root/Back-end/Gest.API/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/automatiza-o-de-processo-de-matr-culas-e-pagamento-de-propinas/root/Back-end/Gest.API/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
