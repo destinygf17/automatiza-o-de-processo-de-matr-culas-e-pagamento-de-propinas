@@ -1,5 +1,7 @@
 node_modules
 .next
-.env
-bin
-obj
+
+# .NET build outputs
+**/bin/
+**/obj/
+
