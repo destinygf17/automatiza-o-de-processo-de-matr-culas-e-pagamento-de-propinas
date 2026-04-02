@@ -14,3 +14,4 @@ public class Database
         return new NpgsqlConnection(_connectionString);
     }
 }
+
